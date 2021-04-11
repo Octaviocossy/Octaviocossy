@@ -2,11 +2,11 @@
 
 #### Welcome to my GitHub Profile!
 
-#### 💬 About Me
+#### 💬 - About Me
 
 I am a front end developer, currently learning JavaScript and C++, I am a student in UTN, I have a great passion for code and music, I strive to learn something new every day.
 
-#### 💻 Languages / Tools
+#### 💻 - Languages / Tools
 
 - JavaScript
 - CSS
@@ -18,7 +18,7 @@ I am a front end developer, currently learning JavaScript and C++, I am a studen
 - Visual Studio Code
 - Git
 
-#### 📖 I'm interested in...
+#### 📖 - I'm interested in...
 - ReactJs
 - React Native
 - TypeScript
