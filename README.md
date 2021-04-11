@@ -21,4 +21,5 @@ I am a front end developer, currently learning JavaScript and C++, I am a studen
 #### 📖 I'm interested in...
 - ReactJs
 - React Native
-- Type
+- TypeScript
+- UX/UI
