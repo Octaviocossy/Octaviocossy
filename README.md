@@ -12,6 +12,7 @@ I am developer, currently learning JavaScript and C++, I am a student in UTN, I 
 - CSS
 - HTML
 - Tailwind CSS
+- Sass
 - Node
 - ExpressJS 
 - NeoVim
