@@ -4,7 +4,7 @@
 
 #### About Me 💬 
 
-I am developer, currently learning JavaScript and C++, I am a student in UTN, I have a great passion for code and music, I strive to learn something new every day.
+I am developer, currently learning ReactJS, I am a student in UTN, I have a great passion for code and music, I strive to learn something new every day.
 
 #### Languages / Tools 💻 
 
