@@ -13,8 +13,6 @@ I am developer, currently learning ReactJS, I am a student in UTN, I have a grea
 - HTML
 - Tailwind CSS
 - Sass
-- Node
-- ExpressJS 
 - NeoVim
 - Visual Studio Code
 - Git
