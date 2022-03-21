@@ -7,9 +7,6 @@ I’m a Frontend developer, I have a great passion for code and music, I strive 
 <a href="https://twitter.com/Octaviocossy">
  <img alt="Octavio Cossy Torquati Twitter" width="30px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://xn--r1a.click/Octaviocossy">
- <img alt="Octavio Cossy Torquati Telegram" width="30px" src="https://icongr.am/fontawesome/telegram.svg?size=128&color=70c8ff" />
-</a>
 
 <br />
 <br />
