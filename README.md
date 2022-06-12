@@ -16,13 +16,15 @@ I’m a Frontend developer, I have a great passion for code and music, I strive 
 
 ## About me
 
-- 🌱 I'm currently learning ReactJS.
+- 🌱 I'm currently working with ReactJS.
 - 📚 I'm currently coursing TUP in UTN.
-- ✨ I'm looking for a frontend developer job.
+- ✨ I'm looking to contribute to open source projects.
 
 ## Languages and Tools
 
+<code><img height="20" src="./assets/ts.png"></code>
 <code><img height="20" src="./assets/javascript.png"></code>
 <code><img height="20" src="./assets/react.png"></code>
-<code><img height="20" src="./assets/sass-logo.png"></code>
+<code><img height="20" src="./assets/chakralogo.png"></code>
 <code><img height="20" src="./assets/tailwindcss.png"></code>
+<code><img height="20" src="./assets/sass-logo.png"></code>
