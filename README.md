@@ -1,30 +1,30 @@
-## Hi, I'm Octavio! 👋
+<h1 align="center">Hi 👋, I'm Octavio</h1>
+<h3 align="center">I’m a Fullstack developer, I have a great passion for code and music, I strive to learn something new every day.</h3>
 
-I’m a Frontend developer, I have a great passion for code and music, I strive to learn something new every day.
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=octaviocossy&label=Profile%20views&color=0e75b6&style=flat" alt="octaviocossy" /> </p>
 
+- 🤝 I’m currently working at **Janus Automation**
 
-<a href="https://twitter.com/Octaviocossy">
- <img alt="Octavio Cossy Torquati Twitter" width="30px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
+- 🌱 I’m currently learning **NodeJS and Prisma**
 
-<br />
-<br />
-  <a href="https://github.com/Octaviocossy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Octaviocossy&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octaviocossy&layout=compact&langs_count=7"/>
+- 👯 I’m looking to collaborate on **a open source projects**
 
-## About me
+- 💬 Ask me about **React and TypeScript**
 
-- 🌱 I'm currently working with ReactJS.
-- 📚 I'm currently coursing TUP in UTN.
-- ✨ I'm looking to contribute to open source projects.
+- 👨‍💻 All of my projects are available at [my portfolio](https://octaviocossytorquati.vercel.app/)
 
-## Languages and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@octaviocossy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@octaviocossy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/octaviocossy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octaviocossy" height="30" width="40" /></a>
+<a href="https://instagram.com/octacossy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="octacossy" height="30" width="40" /></a>
+</p>
 
-<code><img height="20" src="./assets/ts.png"></code>
-<code><img height="20" src="./assets/javascript.png"></code>
-<code><img height="20" src="./assets/react.png"></code>
-<code><img height="20" src="./assets/chakralogo.png"></code>
-<code><img height="20" src="./assets/tailwindcss.png"></code>
-<code><img height="20" src="./assets/sass-logo.png"></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviocossy&show_icons=true&locale=en&layout=compact" alt="octaviocossy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octaviocossy&show_icons=true&locale=en" alt="octaviocossy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviocossy&theme=default" alt="octaviocossy" /></p>
