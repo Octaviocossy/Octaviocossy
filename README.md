@@ -5,7 +5,7 @@
 
 - 🤝 I’m currently working at **Janus Automation**
 
-- 🌱 I’m currently learning **NodeJS and Prisma**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **a open source projects**
 
