@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Octavio</h1>
-<h3 align="center">I’m a Fullstack developer, I have a great passion for code and music, I strive to learn something new every day.</h3>
+<h3 align="center">Product Developer — I’m passionate about building scalable, real-world software and exploring the intersection between development and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=octaviocossy&label=Profile%20views&color=0e75b6&style=flat" alt="octaviocossy" /> </p>
 
-- 🤝 I’m currently working at **Janus Automation**
+- 🤝 Currently working at **Janus Automation** as a Fullstack Developer
 
-- 🌱 I’m currently learning **NextJS**
+- 🚀 Co-founder & Team Lead at **Anthurium Group**, building custom software and mentoring new devs
 
-- 👯 I’m looking to collaborate on **a open source projects**
+- 🌱 Currently exploring **Next.js**, **tRPC**, **Drizzle ORM**, and **AI integrations**
 
-- 💬 Ask me about **React and TypeScript**
+- 👯 Open to collaborate on **open-source tools focused on dev experience, infrastructure and AI**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://octaviocossytorquati.vercel.app/)
+- 💬 Ask me about **React, TypeScript, or building fullstack architectures**
+
+- 👨‍💻 Check out my work at [my portfolio](https://ovct.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
