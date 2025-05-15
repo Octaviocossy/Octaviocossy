@@ -5,4 +5,4 @@ I’m currently working at Janus Automation, creating custom web solutions for i
 Lately, I’ve been diving into AI integrations to push my projects even further.
 
 Want to connect or see what I’m working on?
-Follow me on [X]("https://x.com/Octaviocossy") or visit [my portfolio]("https://ovct.dev/").
+Follow me on [X](https://x.com/Octaviocossy) or visit [my portfolio](https://ovct.dev/).
