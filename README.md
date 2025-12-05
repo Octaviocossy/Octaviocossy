@@ -19,7 +19,3 @@ Advanced testing patterns, React performance optimization and frontend system de
 
 ## Connect
 [Portfolio](https://ovct.dev/) • [X/Twitter](https://x.com/Octaviocossy)
-
----
-
-💡 Open to **Frontend Engineer** opportunities.
