@@ -10,11 +10,11 @@ Built with React, Next.js, TypeScript, AI Gateway and PostgreSQL.
 Fullstack Engineer at **Janus Automation** — building custom web applications for industrial automation workflows.
 
 ## Tech Stack
-**Frontend:** Next.js, React.js, React Query, Zustand, Angular, TypeScript, Tailwind CSS \n
-**Backend:** Node.js, Nest.js, Express.js, .NET, REST APIs
-**Db:** PostgreSQL, SQL Server, Prisma ORM, Drizzle ORM, Entity Framework
-**Mobile & Desktop:** React Native, Electron, Tauri
-**DevOps & Tools:** Azure DevOps, Docker, Git, GitHub, CI/CD, Cursor
+**Frontend:** Next.js, React.js, React Query, Zustand, Angular, TypeScript, Tailwind CSS <br>
+**Backend:** Node.js, Nest.js, Express.js, .NET, REST APIs <br>
+**Db:** PostgreSQL, SQL Server, Prisma ORM, Drizzle ORM, Entity Framework <br>
+**Mobile & Desktop:** React Native, Electron, Tauri <br>
+**DevOps & Tools:** Azure DevOps, Docker, Git, GitHub, CI/CD, Cursor <br>
 
 ## What I'm learning
 Advanced testing patterns, React performance optimization and frontend system design.
